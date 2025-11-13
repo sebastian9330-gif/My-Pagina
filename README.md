@@ -1,2 +1,2 @@
-# My-Wiky
-Mi primer reposistorio 
+# Mi primer reposistorio 
+
