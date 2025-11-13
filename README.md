@@ -1,5 +1,3 @@
-# Pagina personal - Sebastian A.
-
 # 👋 ¡Hola! Soy Sebastian Arboleda
 
 Bienvenido a mi primera página personal creada con GitHub Pages. 🚀  
