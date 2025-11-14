@@ -67,7 +67,8 @@ Resultado
 
 **Ejemplo *Google Colaboratory***
 
-<img width="250" height="141" alt="image" src="https://github.com/user-attachments/assets/8d940db9-9d57-4637-9383-d88d94c2adcb" />
+<img width="1356" height="347" alt="image" src="https://github.com/user-attachments/assets/ca75fca0-1652-4327-a5e6-0ea4ffae77f7" />
+
 
 
 ## Reflexión
