@@ -8,8 +8,7 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 ## 🧠 Sobre mí
 - 💻 Estudiante de desarrollo de software.
 - 🌱 Aprendiendo HTML, CSS, JavaScript python y Git.
-- 🎯 Objetivo: Convertirme en un desarrollador full stack.
-- ⚡ Me gusta crear proyectos prácticos y fáciles de entender.
+- 🎯 Objetivo: Convertirme en un desarrollador.
 
 ---
 
