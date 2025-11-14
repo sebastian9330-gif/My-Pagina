@@ -54,7 +54,7 @@ Cadenas de texto (str): "Hola", 'Python'
 Valores lógicos (bool): True, False
 
 
-Ejemplos código - Operadores
+**Ejemplos código - Operadores**
 
 a = 5
 b = a + 2
@@ -65,7 +65,7 @@ Resultado
 5
 7
 
-Ejemplo *Google Colaboratory*
+**Ejemplo *Google Colaboratory***
 
 <img width="250" height="141" alt="image" src="https://github.com/user-attachments/assets/8d940db9-9d57-4637-9383-d88d94c2adcb" />
 
