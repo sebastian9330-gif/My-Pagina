@@ -79,7 +79,16 @@ Está primera unidad es el fundamento para iniciar a comprender el pensamiento a
 ChatGPT: [Creación de ramas](https://chatgpt.com/s/t_6915448158708191b2bc0034200a8376)
 ChatGPT: [Crear mi primer readme](https://chatgpt.com/s/t_6916866f5fb48191942f7845c8a4c007)
 
+------
 
+<details>
+  <summary>Ver instrucciones</summary>
+
+  - Paso 1: Abrir el archivo  
+  - Paso 2: Editar  
+  - Paso 3: Guardar  
+
+</details>
 
 
 
