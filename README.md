@@ -25,6 +25,9 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 
 ---
 
+<details>
+  <summary>📘 ENSAMIENTO ALGORÍTMICO — Temas</summary>
+
 ##  PENSAMIENTO ALGORÍTMICO
 
 ## Temas
