@@ -28,26 +28,39 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 <details>
   <summary>📘 ENSAMIENTO ALGORÍTMICO — Temas</summary>
 
-##  PENSAMIENTO ALGORÍTMICO
+# PENSAMIENTO ALGORÍTMICO
 
 ## Temas
 
 ### Hardware 
 EL Hardware entiendo que son los componentes físicos de un dispositivo electrónico que se pueden ver y tocar, como el procesador (CPU), la memoria RAM, el disco duro, el teclado, el monitor y los periféricos. Aprendimos como funciona el hardware por medio de ejemplos con un circuito, para ver si se cumplen las condiciones utilizando una tabla de verdad.
 
+---
 
 ### Software
 Es el conjunto de programas, instrucciones y reglas informáticas para ejecutar ciertas tareas en una computadora. 
 
+---
+
 ### Los Lenguajes de Programación - Python 
-Son lenguajes formales diseñados para expresar computaciones. El cual se basan en 5 elementos básicos: Entrada, salida, matemáticas, repetición. 
+Son lenguajes formales diseñados para expresar computaciones. 
+El cual se basan en 5 elementos básicos: 
+
+- Entrada
+- Salida
+- Matemáticas
+- Repetición.
+ 
 Se puede describir la programación como el proceso de descomponer una tarea grande y compleja en subtareas cada vez más pequeñas hasta que las subtareas sean lo suficientemente simples como para ser realizadas con secuencias de estas instrucciones básicas.
+
+---
 
 ### Variables, Valores y Operadores
 
 Una **Variable** es el nombre que se le da al hacer referencia a un valor que se guarda en la memoria del computador.
 
 Un **Valor** es una unidad de información que puede ser almacenada y manipulada por un programa.
+
 Los valores pueden ser de distintos tipos de datos, como:
 
 - Números enteros (int): 3, -12, 250
@@ -55,6 +68,7 @@ Los valores pueden ser de distintos tipos de datos, como:
 - Cadenas de texto (str): "Hola", 'Python'
 - Valores lógicos (bool): True, False
 
+---
 
 **Ejemplos código - Operadores**
 
