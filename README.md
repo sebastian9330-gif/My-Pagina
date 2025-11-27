@@ -25,6 +25,8 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 
 ---
 
+[Tarea # 1](https://sebastian9330-gif.github.io/Mi-Blog/)
+
 # PENSAMIENTO ALGORÍTMICO
 
 ## Temas
