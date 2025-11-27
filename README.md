@@ -19,13 +19,12 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 
 ---
 
-## 🚀 Cómo ver mi página
-👉 Puedes visitar mi sitio en:  
-[https://sebastian9330-gif.github.io/My-Pagina/](https://sebastian9330-gif.github.io/My-Pagina/)
+## 🚀 Mi Blog / Taks
+👉   [https://sebastian9330-gif.github.io/My-Pagina/](https://sebastian9330-gif.github.io/My-Pagina/)
+👉   [https://sebastian9330-gif.github.io/My-Pagina/](https://github.com/sebastian9330-gif/Task-2)
 
 ---
 
-[Tarea # 2](https://sebastian9330-gif.github.io/Task-2/)
 
 # PENSAMIENTO ALGORÍTMICO
 
