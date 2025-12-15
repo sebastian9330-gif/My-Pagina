@@ -10,7 +10,7 @@ El objetivo es mostrar, de forma progresiva y comparativa, cómo cambia la estru
 
 ### 🔹 Implementaciones disponibles
 
-* 👉 **[Versión Funcional]([https://sebastian9330-gif.github.io/Versi-n-Funcional/](https://github.com/sebastian9330-gif/VERSION_FUNCIONAL))**
+* 👉 **[Versión Funcional](https://github.com/sebastian9330-gif/VERSION_FUNCIONAL)**
   Implementación inicial utilizando funciones para modelar el comportamiento.
 
 * 👉 **[Programación Orientada a Objetos](https://sebastian9330-gif.github.io/POO/)**
