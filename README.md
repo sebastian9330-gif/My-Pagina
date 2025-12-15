@@ -24,8 +24,7 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 
 👉   [Ejercicios - Python](https://sebastian9330-gif.github.io/Task-2/).
 
----
-## 🐢 Tarea Mini-Turtle 🐢
+### 🐢 Tarea Mini-Turtle 🐢
 
 👉  [Encapsulando la libreria](https://github.com/sebastian9330-gif/My-Pagina/blob/main/encapsulando%20la%20libreria.md)
 
