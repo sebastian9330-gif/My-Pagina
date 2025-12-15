@@ -24,10 +24,11 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 
 👉   [Ejercicios - Python](https://sebastian9330-gif.github.io/Task-2/).
 
-
+---
 "Tarea Mini-Turtle".
 
 👉 [Programación Orientada a Objetos](https://sebastian9330-gif.github.io/POO/).
+
 👉 [Version Funcional](https://sebastian9330-gif.github.io/Versi-n-Funcional/).
 
 ---
