@@ -13,7 +13,7 @@ El objetivo es mostrar, de forma progresiva y comparativa, cómo cambia la estru
 * 👉 **[Versión Funcional](https://github.com/sebastian9330-gif/VERSION_FUNCIONAL)**
   Implementación inicial utilizando funciones para modelar el comportamiento.
 
-* 👉 **[Programación Orientada a Objetos](https://github.com/sebastian9330-gif/POO/blob/main/README.md)**
+* 👉 **[Programación Orientada a Objetos](https://github.com/sebastian9330-gif/POO)**
   Evolución del diseño mediante clases y objetos, aplicando principios de encapsulación.
 
 ---
