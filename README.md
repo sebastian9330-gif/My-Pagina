@@ -27,7 +27,7 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 ---
 ## 🐢 Tarea Mini-Turtle 🐢
 
-👉  [Encapsulando la libreria](https://github.com/sebastian9330-gif/My-Pagina/blob/main/encapsulando%20la%20libreria)
+👉  [Encapsulando la libreria](https://github.com/sebastian9330-gif/My-Pagina/blob/main/encapsulando%20la%20libreria.md)
 
 
 
