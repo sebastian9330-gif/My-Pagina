@@ -27,9 +27,9 @@ Este proyecto es un espacio donde practico y comparto lo que voy aprendiendo sob
 ---
 ## 🐢 Tarea Mini-Turtle 🐢
 
-👉 [Programación Orientada a Objetos](https://sebastian9330-gif.github.io/POO/).
+👉  [Encapsulando la libreria](mini_turtle)
 
-👉 [Version Funcional](https://sebastian9330-gif.github.io/Versi-n-Funcional/).
+
 
 ---
 
